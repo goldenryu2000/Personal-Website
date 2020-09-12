@@ -344,21 +344,18 @@ section {
 /*--------------------------------------------------------------
 # skills
 --------------------------------------------------------------*/
-.skill-item{
-  align-content: center !important;
+
+.skills{
+  text-align: center;
 }
-
-
+.section-title{
+  text-align: left;
+}
 .skill-text{
   font-size: 2em;
   font-family: "Poppins", sans-serif;
+  margin-top: 2px !important;
 }
-.skill-text-git{
-  font-size: 2em;
-  font-family: "Poppins", sans-serif;
-  margin-left: 7%;
-}
-
 .skills .progress .skill {
   padding: 10px 0;
   margin: 6px 6px 6px 0;
